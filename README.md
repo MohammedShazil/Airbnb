@@ -10,5 +10,5 @@ Managed image uploads and storage using Cloudinary.
 Technologies Used: Node.js, Express.js, MongoDB, EJS, Bootstrap, Mapbox API, Cloudinary, Passport.js, JavaScript, Mongodb
 
 Login info:
-Username: user5
-Password: user5
+Username: user1
+Password: user1
