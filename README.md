@@ -8,3 +8,7 @@ Developed RESTful routes for managing user listings, reviews, and ratings.
 Used Bootstrap to create a responsive front-end layout.
 Managed image uploads and storage using Cloudinary.
 Technologies Used: Node.js, Express.js, MongoDB, EJS, Bootstrap, Mapbox API, Cloudinary, Passport.js, JavaScript, Mongodb
+
+Login info:
+Username: user5
+Password: user5
